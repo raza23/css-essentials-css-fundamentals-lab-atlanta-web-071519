@@ -10,7 +10,7 @@ h1 {
 }
 
 /*1) Center image */
-img {
+figure {
   display: block;
   margin-left: auto;
   margin-right: auto;
