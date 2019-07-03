@@ -48,3 +48,7 @@ nav a {
 #details {
   display: block;
 }
+
+div#details{
+  float: left;
+}
