@@ -35,8 +35,8 @@ nav a {
 }
 
 /*5) Text Block Update*/
-#featured-property {
+p#featured-property {
   text-align: center;
   width: 50%;
-
+  
 }
