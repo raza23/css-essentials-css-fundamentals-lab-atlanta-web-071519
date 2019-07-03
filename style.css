@@ -45,10 +45,11 @@ nav a {
 
 /*6) Details*/
 
-#details {
+.details {
+  
   display: block;
 }
 
-div#details{
+div.details{
   float: left;
 }
