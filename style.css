@@ -33,3 +33,9 @@ nav a {
   padding-right: 10px;
   background-color: yellow;
 }
+
+/*5) Text Block Update*/
+p#featured-property {
+  text-align: center;
+  
+}
