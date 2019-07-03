@@ -50,6 +50,6 @@ nav a {
   display: block;
 }
 
-div.details{
+div details{
   float: left;
 }
