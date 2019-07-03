@@ -36,5 +36,6 @@ nav a {
 
 /*5) Text Block Update*/
 p.featured-property {
+  color:red;
   text-align: center;
 }
