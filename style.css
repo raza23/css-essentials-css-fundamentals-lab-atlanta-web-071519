@@ -36,7 +36,8 @@ nav a {
 
 /*5) Text Block Update*/
 #caption {
-  text-align: center;
+  
   width: 60%;
+  text-align: center;
 
 }
