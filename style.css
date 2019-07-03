@@ -42,3 +42,9 @@ nav a {
   margin: auto;
 
 }
+
+/*6) Details*/
+
+#details {
+  display: block;
+}
