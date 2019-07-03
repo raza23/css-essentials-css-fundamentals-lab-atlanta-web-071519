@@ -4,6 +4,12 @@ body {
   margin: 0;
 }
 
+/*1) Align text too center */
 h1 {
+   text-align: center;
+}
+
+/*1) Center image */
+featured-property {
    text-align: center;
 }
