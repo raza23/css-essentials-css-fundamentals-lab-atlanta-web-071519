@@ -44,7 +44,7 @@ nav a {
 }
 
 /*6) Details*/
-#details h3 {
+#details div {
   display: block;
   float: left;
 }
