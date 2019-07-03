@@ -9,7 +9,7 @@ h1 {
    text-align: center;
 }
 
-/*1) Center image and Caption */
+/*2) Center image and Caption */
 img {
   display: block;
   margin-left: auto;
@@ -21,8 +21,13 @@ figcaption {
 }
 
 
+/*3) Jazz up Navigation */
+
+nav {
+  text-align: center;
+}
+
 nav a {
-  text-align:center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: red;
